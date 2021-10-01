@@ -35,6 +35,10 @@ button{
     background-color: #3498db;
 }
 
+button:hover{
+    background-color: #2980b9;
+}
+
 .loader {
     border: 10px solid #f3f3f3;
     border-radius: 50%;
